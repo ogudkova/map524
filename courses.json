@@ -1,1 +1,9 @@
-
+{
+  "student": "Oksana Gudkova",
+  "version": "1.0.0",
+  "timestamp": "2019-09-13T11::39:12+0000",
+  "count": 3,
+  "data": [
+    { "id":20, "courseCode": "MAP524", "courseName": "IOS Development" },
+    { "id": 21, "courseCode": "PRJ566", "courseName": 
+      
