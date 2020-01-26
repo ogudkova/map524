@@ -1,0 +1,33 @@
+{
+    "student": "Oksana Gudkova",
+    "version": "1.0.0",
+    "timestamp": "2020-01-26T13:11:26+0000",
+    "count": 5,
+    "data": [
+        {
+            "id": 0,
+            "code": "MAP 523",
+            "name": "IOS Mobile Development"
+        },
+        {
+            "id": 1,
+            "code": "DSA 555",
+            "name": "Data Structures and Algorithms"
+        },
+        {
+            "id": 2,
+            "code": "GAM 536",
+            "name": "Game Content Creation"
+        },
+        {
+            "id": 3,
+            "code": "PRJ 566",
+            "name": "Project Planning & Management"
+        },
+        {
+            "id": 4,
+            "code": "LAN 115",
+            "name": "Conversational Spanish"
+        }
+    ]
+}
