@@ -28,6 +28,31 @@
             "id": 4,
             "code": "LAN 115",
             "name": "Conversational Spanish"
+        },
+        {
+            "id": 5,
+            "code": "JAC 444",
+            "name": "Java Programming"
+        },
+        {
+            "id": 6,
+            "code": "EAC 593",
+            "name": "Business Writing"
+        },
+        {
+            "id": 7,
+            "code": "DBS 301",
+            "name": "Database and SQL"
+        },
+        {
+            "id": 8,
+            "code": "BCI 433",
+            "name": "IBM Business Computing"
+        },
+        {
+            "id": 9,
+            "code": "WEB 422",
+            "name": "WEB Programming"
         }
     ]
 }
